@@ -1,0 +1,32 @@
+h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(/Users/roberthack/Desktop/Hobbies/Tech/VS-CodeProjects/DasmotoArt&Craft/Resources/Images/pattern1.jpeg);
+}
+/*header {
+    background-image: url(/Users/roberthack/Desktop/Hobbies/Tech/VS-CodeProjects/DasmotoArt&Craft/Resources/Images/pattern1.jpeg);
+}*/
+h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.Brushes h2 {
+    background-color: mediumspringgreen;
+}
+.Frames h2 {
+    background-color: lightcoral;
+}
+.Paint h2 {
+    background-color: skyblue;
+}
+.PriceStarters {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
